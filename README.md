@@ -1,7 +1,7 @@
 #  HW
   ## Description 
   
-   ReadMe Gen
+   This application takes in user input about a project and then generates a README markdown file using Node.
   
   ## Table of Contents (Optional)
   
@@ -19,7 +19,7 @@
 
   ## Usage 
   
-  HW
+  node index.js
   
   
   ## Credits
@@ -52,8 +52,9 @@
   ## Questions
 
   [![GitHub followers](https://img.shields.io/github/followers/tterb.svg?style=social&label=Follow)](https://github.com/cramirez88)  
-
+  For questions about this project, feel free to contact me:
   email: christian.r0602@gmail.com
+  GitHub: cramirez88
   ---
   © 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
   
